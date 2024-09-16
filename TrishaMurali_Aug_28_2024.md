@@ -13,7 +13,7 @@ Pet feeder - automatic cleaning, customized food, manual override, bluetooth/app
 Eco-friendly temp control - blinds/blackout curtain, lights, fan/air conditioner <br/> 
 
 ## Posts: <br/>
-## Post 1 <br/>
+### Post 1 <br/>
 Hi everyone, <br/> 
 My name is Trisha Murali and my group would like to focus on home automation systems/devices. One of my ideas for this project was to make pet care accessible and convenient. An automatic pet feeder! There are quite a few options available on the market, but as a dog mom myself, it’s been difficult to find one with all the features I’d like for my Golden Retriever to have. I’ve detailed my idea below.<br/> 
 <br/> 
@@ -22,7 +22,6 @@ Problem: While we’d like to provide our pets with the best care possible and b
 Solution: In order to deal with this problem, I suggest we have multiple dispensers with water and different foods. Depending on the time of day/decided schedule, our PCB design will allow for the feeder to dispense the appropriate food and we can use sensors to detect the water level. If it’s empty, it can be refilled. Similarly, we can use sensors to detect if the food dispenser is low on supply and it can notify your phone. After each meal, it will automatically clean and dry the bowls or dispose of the bowls. In addition to this, we will also allow for communication with a device to be able to override or make any changes when you’re away or if you’d just like to be able to give your pet an extra treat! <br/> 
 <br/> 
 <br/> 
-
 ### Post 2 <br/>
 Hi again, <br/> 
 My name is Trisha Murali and as I mentioned in my previous post, my group and I are interested in home automation systems and devices. My other idea for this project is an eco-friendly temperature control system with an automatic lighting system.<br/>  
