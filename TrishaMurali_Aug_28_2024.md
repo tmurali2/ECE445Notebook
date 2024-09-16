@@ -10,4 +10,6 @@ RFA Template: Problem, sol overview, solution subsystem, criterion for success
 
 ## Post on Web Board (My Ideas): 
 Pet feeder - automatic cleaning, customized food, manual override, bluetooth/app communication <br/>
-Eco-friendly temp control - blinds/blackout curtain, lights, fan/air conditioner 
+Eco-friendly temp control - blinds/blackout curtain, lights, fan/air conditioner <br/> 
+
+Signature: Trisha Murali 
