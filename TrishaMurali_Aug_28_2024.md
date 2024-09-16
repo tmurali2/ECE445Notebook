@@ -1,4 +1,4 @@
-Name: Trisha Murali 
+Name: Trisha Murali
 Date: 08/28/2024 
 # Brainstorming Ideas with the group (Meeting 1) 
 ## General Information
