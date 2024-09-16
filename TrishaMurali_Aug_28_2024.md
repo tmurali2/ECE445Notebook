@@ -21,11 +21,10 @@ Problem: While we’d like to provide our pets with the best care possible and b
 <br/> 
 Solution: In order to deal with this problem, I suggest we have multiple dispensers with water and different foods. Depending on the time of day/decided schedule, our PCB design will allow for the feeder to dispense the appropriate food and we can use sensors to detect the water level. If it’s empty, it can be refilled. Similarly, we can use sensors to detect if the food dispenser is low on supply and it can notify your phone. After each meal, it will automatically clean and dry the bowls or dispose of the bowls. In addition to this, we will also allow for communication with a device to be able to override or make any changes when you’re away or if you’d just like to be able to give your pet an extra treat! <br/> 
 <br/> 
-<br/> 
+
 ### Post 2 <br/>
 Hi again, <br/> 
 My name is Trisha Murali and as I mentioned in my previous post, my group and I are interested in home automation systems and devices. My other idea for this project is an eco-friendly temperature control system with an automatic lighting system.<br/>  
-<br/> 
 Problem: Oftentimes, we are met with the challenge of having to put the blinds up/down and having to adjust the settings on our thermostat. We use lights in the daytime when we can make good use of some sunlight and we use the thermostat when we’re not in need of it. Automating this can make the process accessible and energy efficient.<br/> 
 <br/> 
 Solution: Depending on the time of day and the position of the sun, our eco-friendly temperature control system will automatically let the blinds down and turn on the lights. Similarly, when it’s daytime, it will automatically roll up the blinds and turn the lights off. This will also be based on the temperature sensors we place on the device. We will also have communication to the thermostat to increase or decrease the temperature based on pre-set preferences and detected temperature. <br/> 
