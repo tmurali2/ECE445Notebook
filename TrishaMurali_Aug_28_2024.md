@@ -12,7 +12,8 @@ RFA Template: Problem, sol overview, solution subsystem, criterion for success
 Pet feeder - automatic cleaning, customized food, manual override, bluetooth/app communication <br/>
 Eco-friendly temp control - blinds/blackout curtain, lights, fan/air conditioner <br/> 
 
-## Posts 
+## Posts: <br/>
+## Post 1 <br/>
 Hi everyone, <br/> 
 My name is Trisha Murali and my group would like to focus on home automation systems/devices. One of my ideas for this project was to make pet care accessible and convenient. An automatic pet feeder! There are quite a few options available on the market, but as a dog mom myself, it’s been difficult to find one with all the features I’d like for my Golden Retriever to have. I’ve detailed my idea below.<br/> 
 <br/> 
@@ -22,7 +23,7 @@ Solution: In order to deal with this problem, I suggest we have multiple dispens
 <br/> 
 <br/> 
 
-
+### Post 2 <br/>
 Hi again, <br/> 
 My name is Trisha Murali and as I mentioned in my previous post, my group and I are interested in home automation systems and devices. My other idea for this project is an eco-friendly temperature control system with an automatic lighting system.<br/>  
 <br/> 
