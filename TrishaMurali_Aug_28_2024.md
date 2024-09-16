@@ -8,6 +8,6 @@ Date: 08/28/2024
 - Complexity: (circuit implementation) custom PCB with microcontroller on board and bootloading capability, software implementation, math analysis (signal processing, control theory)
 RFA Template: Problem, sol overview, solution subsystem, criterion for success 
 
-## Post on Web Board after brainstorming with group: 
+## Post on Web Board (My Ideas): 
 Pet feeder - automatic cleaning, customized food, manual override, bluetooth/app communication 
 Eco-friendly temp control - blinds/blackout curtain, lights, fan/air conditioner 
