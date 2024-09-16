@@ -115,4 +115,4 @@ The Smart Pot subsystems prove individual functionality as well as collaborative
 
 To test, we want to check that all systems respond accurately and appropriately to their related sensor stimuli. The sensor readings themselves should match real life conditions in a reasonable manner and will be displayed on a UI for easy monitoring. <br/> 
 
-Signature: Trisha Murali
+**Signature: Trisha Murali**
