@@ -29,4 +29,4 @@ Problem: Oftentimes, we are met with the challenge of having to put the blinds u
 <br/> 
 Solution: Depending on the time of day and the position of the sun, our eco-friendly temperature control system will automatically let the blinds down and turn on the lights. Similarly, when it’s daytime, it will automatically roll up the blinds and turn the lights off. This will also be based on the temperature sensors we place on the device. We will also have communication to the thermostat to increase or decrease the temperature based on pre-set preferences and detected temperature. <br/> 
 <br/> 
-Signature: Trisha Murali 
+**Signature: Trisha Murali**
