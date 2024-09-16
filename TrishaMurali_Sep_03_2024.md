@@ -174,7 +174,7 @@ LCD TFT: We like this. https://www.digikey.com/en/products/detail/dfrobot/DFR066
    - STM32L010C6T6: https://www.digikey.com/en/products/detail/stmicroelectronics/STM32L010C6T6/9770445<br/>
 - The option of ESP32 Wi-Fi enabling STRETCH GOAL<br/>
 
-Signature: Trisha Murali 
+**Signature: Trisha Murali**
 
 
 
