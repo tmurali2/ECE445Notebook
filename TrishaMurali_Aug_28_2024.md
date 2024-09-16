@@ -1,4 +1,4 @@
-Name: Trisha Murali
+Name: Trisha Murali <br/>
 Date: 08/28/2024 
 # Brainstorming Ideas with the group (Meeting 1) 
 ## General Information
@@ -9,5 +9,5 @@ Date: 08/28/2024
 RFA Template: Problem, sol overview, solution subsystem, criterion for success 
 
 ## Post on Web Board (My Ideas): 
-Pet feeder - automatic cleaning, customized food, manual override, bluetooth/app communication 
+Pet feeder - automatic cleaning, customized food, manual override, bluetooth/app communication <br/>
 Eco-friendly temp control - blinds/blackout curtain, lights, fan/air conditioner 
