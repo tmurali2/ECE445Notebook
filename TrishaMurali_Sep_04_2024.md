@@ -113,4 +113,6 @@ Step down voltages and supply power to all the subsystems
 # **Criterion** For Success
 The Smart Pot subsystems prove individual functionality as well as collaborative functionality. Ultimately, the Smart Pot will be able to sustain all subsystems and care for the plant for 4 weeks without human intervention.
 
-To test, we want to check that all systems respond accurately and appropriately to their related sensor stimuli. The sensor readings themselves should match real life conditions in a reasonable manner and will be displayed on a UI for easy monitoring.
+To test, we want to check that all systems respond accurately and appropriately to their related sensor stimuli. The sensor readings themselves should match real life conditions in a reasonable manner and will be displayed on a UI for easy monitoring. <br/> 
+
+Signature: Trisha Murali
