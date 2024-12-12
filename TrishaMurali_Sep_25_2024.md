@@ -15,7 +15,7 @@ Date: 09/25/2024
 - 0x8C: status register (data valid bits B7, B2 bit depending on old data/new data) -> read data (high or low)
 
 ### Servo Motor 
-- similar to stepper (but also which one are we getting?)
+- similar to stepper (but also which one are we getting?) -- HS-311 is the servo motor we ended up getting
 
 ### Humidity Sensor 
 - Pins: SDA, ADDR, ALERT, SCL, VDD, nRESET, R, VSS 
