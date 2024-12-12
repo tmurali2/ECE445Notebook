@@ -1,1 +1,1 @@
-
+Block Diagram paragraph 
