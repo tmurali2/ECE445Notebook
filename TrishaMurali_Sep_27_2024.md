@@ -6,7 +6,7 @@ We are writing the design doc and after several reviews of the system block diag
 
 ![image](https://github.com/user-attachments/assets/53e34620-baf4-4f9a-9613-9f384853f76d)
 
-The block diagram descriptions below are in relation to the picture above 
+Note: The block diagram descriptions below are in relation to the picture above. 
 
 The block diagram (Figure 5) details the different subsystems for The Smart Plant Pot. Our hydroponics solution/device can be split into 6 primary subsystems: power, control and UI, water and nutrients, humidity, grow lights, and oxygenation. The power subsystem will work with a 12V wall adapter. To power the parts particular to each subsystem, the appropriate voltage step-down/buck converter will be used, i.e., the 12V to 3.3V or the 12V to 5V. This will be based on each subsystem’s individual supply voltage range and amperage. 
 
