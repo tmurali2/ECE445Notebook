@@ -1,7 +1,7 @@
 Name: Trisha Murali <br/>
 Date: 10/03/2024
 
-Note: Here we wrote sections of the design doc. These were some of the sections I contributed to entirely. 
+Note: Here we wrote sections of the design doc. These were some of the sections I contributed to entirely. For exact references, please refer to the design doc. This entry is just meant to specify my contributions and keep a track of my work. 
 
 # Lights in Design Doc 
 
