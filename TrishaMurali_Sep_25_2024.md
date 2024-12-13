@@ -20,5 +20,4 @@ Date: 09/25/2024
 ### Humidity Sensor 
 - Pins: SDA, ADDR, ALERT, SCL, VDD, nRESET, R, VSS 
 
-
-
+**Signature: Trisha Murali**
