@@ -1,6 +1,7 @@
 Name: Trisha Murali <br/>
 Date: 11/05/2024
 
+# Soldering 
 Once the TFT LCD and LTR-329 came in, I realized that they did not come in with wires, so I had to order: BOJOUL for 20 Sets JST SH 1.0mm 4 Pin Male Connector and 28AWG Female Connector Plug with Wire Cable 20cm Used in PCB Toys Household Appliances etc, Brand: BOJOUL. This was the same issue that Morgan ran into as she was working on the humidity and temperature sensor at the same time. While waiting, however, I soldered the header pins in case they took a while to arrive. As for the LCD, we wanted to avoid using the SPI cable since we thought that simplified the process and wanted to do more on our own. After soldering the pins and now having received the LCD and light sensor in person. I looked into how this could be integrated with the rest of the project. 
 
 The plan at this point: 
