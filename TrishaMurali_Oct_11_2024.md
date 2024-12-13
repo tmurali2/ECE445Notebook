@@ -21,3 +21,5 @@ References: <br/>
 [3] “How to Interface Servo motor with STM32”, Controller’s Tech, https://controllerstech.com/servo-motor-with-stm32/ <br/>
 [4] “Part 1: Introduction to the STM32 microcontroller clock system”, March. 2024. https://community.st.com/t5/stm32-mcus/part-1-introduction-to-the-stm32-microcontroller-clock-system/ta-p/605369 <br/>
 [5] “HSI vs HSE Clock in an STM32F4xx Microcontroller Board-Explained”, Learning about Electronics, 2018, https://www.learningaboutelectronics.com/Articles/HSI-vs-HSE-clock-in-an-STM32F4xx-microcontroller.php <br/>
+
+**Signature: Trisha Murali**
