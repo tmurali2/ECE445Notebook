@@ -1,6 +1,8 @@
 Name: Trisha Murali <br/> 
 Date: 11/10/2024 
 
+# LCD and Light Sensor
+
 I got the light sensor working and the TFT LCD. For the LCD, in order to get it working on the STM32, I had to make use of the ST7735 libraries provided by adafruit. This provided some functions such as Fill_Rectangle, ST7735_FillScreen, WriteString. These were some of the functions that I used the most. There were other functions provided such as DrawImage, InvertColors, SetGamma, ST7735_DrawPixel, but these weren't of relevance to us. 
 
 For the WriteString, which was used to create the options. This function took in x, y, char*, font, color, bgcolor. The x and y is used to specify where you want the text to be displayed. The char* is where you pass the string you want to print, in this case, the options on the front/start screen. The font is how big you want the text displayed. In this case, there were the fonts file which provided 3 different fonts (Font_7x10, Font_11x18, Font_16x26). There were also provided colors, which was sufficient for our project purposes (examples: ST7735_GREEN, ST7735_BLACK). The background color was essentially the background on which you wanted to write the text. There is also an initialization function to make use of while using it. This was very difficult to integrate with our particular dev board since there was a lot to be modified even though it was provided by adafruit. This is because this module/library was provided for an Arduino. 
