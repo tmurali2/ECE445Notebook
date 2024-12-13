@@ -17,3 +17,5 @@ As for the light sensor, a lot of debugging took place. This took several hours.
 The main big difference is that I originally used Master_Transmit/Master_Receive for communcation, but I was only reading errors. I was not capturing light data. Instead, I used the HAL_I2C_Mem_Read/HAL_I2C_Mem_Write as shown below as well. 
 
 ![image](https://github.com/user-attachments/assets/03ae642b-b077-4326-82a7-e6aa9e3a31c3)
+
+**Signature: Trisha Murali**
