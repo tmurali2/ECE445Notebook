@@ -9,3 +9,5 @@ Here, the code is dependent on setting specific angles and values to rotate to. 
 
 References: <br/>
 [6] “How to Interface Stepper motor with STM32”, Controller’s Tech, https://controllerstech.com/interface-stepper-motor-with-stm32/
+
+**Signature: Trisha Murali**
