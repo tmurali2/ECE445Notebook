@@ -18,3 +18,5 @@ The humidity subsystem uses a humidity sensor (powered with 3.3V) to track the h
 The oxygenation subsystem ensures healthy air circulation for the plant. A 5V-powered air pump is used to power the air stone, which oxygenates and agitates the water in the hydroponics pot setup to prevent bacteria/algae growth. The air pump/stone will be run continuously, while the fan will be controlled using a MOSFET switch (similar to the other subsystems). 
 
 Finally, the Control and UI subsystem has the STM32 microcontroller, which as detailed, is the heart of the Smart Pot. It interprets all sensor data and provides the digital signals to specify actuator control in each subsystem. To increase the ease-of-use of this product, a TFT LCD will be used to show all real time sensor data and maintenance alerts in the case of any necessary manual intervention. Communication between the LCD and STM32 will be done via SPI protocol. A rotary encoder will allow the user to look through a preset list of plants that can be grown in the pot and specify the type to be grown. This will output a digital signal to the microcontroller. 
+
+**Signature: Trisha Murali**
