@@ -8,3 +8,5 @@ After using the arduino, I was able to get the LCD to display something, which e
 Video of TFT LCD working on arduino (Click on the image to view): <br/>
 [![Video Title](https://github.com/user-attachments/assets/c1fc1071-9060-4864-aa62-fd58c05e9dcd)
 ](https://drive.google.com/file/d/17cu1XCCHB2s6OHc-vqSPIyZoMKoo7FJZ/view?usp=sharing)
+
+**Signature: Trisha Murali**
