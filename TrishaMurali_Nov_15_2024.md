@@ -1,6 +1,7 @@
 Name: Trisha Murali <br/>
 Date: 11/15/2024 
 
+# LCD Updates: 
 I got the LCD to show different pages and live expressions. I also created the rotary encoder to be able to move around and select different options. In order to do this, we use the live expressions tab on the STM32 and printed our real-time data/values. This was then printed onto the screen using the WriteString function. Something to note here is that in order to show real-time data changing, the numbers/values from the reading prior to this one had to be cleared since the pixels would stay on the screen otherwise and the values would not read accurately. I had to overwrite the max number of pixels/fill the screen to the background color on each write in order to cover that up and show the fresh, new values. Here is a picture of what it finally looked like: 
 
 ![image](https://github.com/user-attachments/assets/bafdbfac-b5b2-458e-b5e5-57f2dcaecfa1)
