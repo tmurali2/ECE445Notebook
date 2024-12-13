@@ -6,3 +6,5 @@ We now have reliable data and connections with good wire management. We're prepp
 Link to demo guide: https://docs.google.com/document/d/1aR3w_8A8NKezpk63aHOW7REDvvE9uA72Ulp51xTP5Ok/edit?usp=sharing
 
 I printed all of this in color (I spent $35 at the library doing this :() 
+
+**Signature: Trisha Murali**
