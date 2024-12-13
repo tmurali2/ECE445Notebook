@@ -14,4 +14,4 @@ In addition to this, I had to use the rotary encoder to read in user input and m
 Rotary Encoder Logic: <br/> 
 ![image](https://github.com/user-attachments/assets/50e0cd67-c7ae-44a1-b404-19578a54d1f8)
 
-
+**Signature: Trisha Murali**
