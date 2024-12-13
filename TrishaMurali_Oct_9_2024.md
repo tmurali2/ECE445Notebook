@@ -12,4 +12,4 @@ The servo motor that I was working with was the HS-311. This motor is supposed t
 
 References: https://controllerstech.com/servo-motor-with-stm32/
 
-
+**Signature: Trisha Murali**
