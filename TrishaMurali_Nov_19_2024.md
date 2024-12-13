@@ -7,3 +7,5 @@ At this point, we were preparing for the mock demo. At this point, our temperatu
 Also, we were able to test the light sensor, which responded to a flashlight. 
 
 ![image](https://github.com/user-attachments/assets/d0860331-2250-46b5-ada5-3ac25a985a9f)
+
+**Signature: Trisha Murali**
