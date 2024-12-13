@@ -16,3 +16,5 @@ The TFT LCD, as part of the breakout board, comes with the ability to use SPI ca
 References: 
 
 [7] “Optical Sensor Product Data Sheet LTR-329ALS-01,” LITEON Optoelectronics, Mar. 2020. Available: https://cdn-shop.adafruit.com/product-files/5591/LTR-329ALS-01-Lite-On-datasheet-140998467.pdf
+
+**Signature: Trisha Murali**
