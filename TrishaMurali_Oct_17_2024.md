@@ -7,3 +7,5 @@ Getting the stepper motor was quite challenging. Debugging this took several hou
 
 Below are the clock configurations for the stepper:
 ![image](https://github.com/user-attachments/assets/2d9b5283-384b-4f6d-b49b-f1f0cc6d49c6)
+
+**Signature: Trisha Murali**
